@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 #'Distortion Model and Parameter Testing'
-
+#The file is a trial bass recording
 filename = 'mellow-bass-guitar-riff_150bpm_A#_major.wav'
 
 hardClip = False  # Set to True for hard clipping, False for soft clipping
